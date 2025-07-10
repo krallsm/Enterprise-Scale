@@ -59,7 +59,7 @@
           "description": "The location where the resource group and the export to Log Analytics workspace configuration are created."
         }
       },
-      "createResourceGroup": {
+      "ascExportCreateResourceGroup": {
         "type": "Boolean",
         "metadata": {
           "displayName": "Create resource group",
